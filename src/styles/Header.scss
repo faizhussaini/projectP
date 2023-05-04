@@ -9,7 +9,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     position: sticky;
-    background-color: white;
+    background-color: rgb(152, 146, 146);
     top: 0%;
     z-index: 10;
 
@@ -21,7 +21,7 @@ nav{
             color: rgb(44,44,44);
             margin: 1rem;
             &:hover{
-                color: rgb(105, 149, 149);
+                color: rgb(219, 235, 235);
             }
         }
     }
